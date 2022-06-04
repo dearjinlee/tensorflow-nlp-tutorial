@@ -1,21 +1,13 @@
-# Tensorflow-NLP-tutorial
+# 딥 러닝을 이용한 자연어 처리 입문 / Tensorflow-NLP-tutorial
 
 A list of NLP(Natural Language Processing) tutorials built on Tensorflow 2.0.
+딥 러닝을 이용한 자연어 처리 입문 : https://wikidocs.net/book/2155
 
-위키독스 **딥 러닝을 이용한 자연어 처리 입문** 의 자연어 처리 튜토리얼 저장소입니다.  
-기본적으로 딥 러닝 프레임워크 Tensorflow 2.0+을 사용하고 있습니다.  
 
-![자연어처리_상단_책](https://user-images.githubusercontent.com/73151616/147765192-632448c4-2b96-4df4-9d4d-ef34271f295b.png)
-
-코드의 기반이 되는 이론적인 설명은 700페이지 분량의 eBook(무료)을 통해 작성 및 공개하였습니다.
-
-eBook : https://wikidocs.net/book/2155
-
-## Colab 실습 방법
-
-각 실습 파일의 py 파일을 열어보면 Colab 링크를 기재해두었습니다.  
-각 py 파일은 ipynb 파일에서 자동 변환만 진행한 파일입니다.  
-해당 링크를 Chrome 브라우저에서 접속하시면 별도 파이썬 설치없이 바로 실습이 가능합니다.
+## 집현전 NLP 스터디 모임
+* github : https://github.com/jiphyeonjeon
+* 3기 발표 일정 : https://docs.google.com/spreadsheets/u/0/d/1aaBb0lkGQegz_td58MoaaYHALpB5FnfqljjGHizeoKw/htmlview# 
+* Youtube 채널(집현전 자연어처리 모임) : https://www.youtube.com/channel/UCaz2qQBGkwo1h8TUQxM7ajg/videos
 
 
 ## 업데이트 공지
